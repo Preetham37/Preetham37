@@ -1,4 +1,4 @@
-# Hey there, I'm Preetham!
+# Hey there, I'm M Preetham!
 
 I'm a Computer Science student who loves building software that actually solves everyday problems.
 
@@ -34,5 +34,5 @@ I'm currently looking for an **internship opportunity** where I can contribute t
 ### Let's Connect!
 
 I'm always open to discussing new ideas, tech, or internship opportunities.
-- **Email:** [mpreetam792@gmail.com](mailto:mpreetam792@gmail.com)
+- **Email:** [preetham.workspace@gmail.com](mailto:preetham.workspace@gmail.com)
 - **GitHub:** [@Preetham37](https://github.com/Preetham37)
