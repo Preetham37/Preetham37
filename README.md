@@ -1,4 +1,4 @@
-# Hey there, I'm Preetham! 👋
+# Hey there, I'm Preetham!
 
 I'm a Computer Science student who loves building software that actually solves everyday problems.
 
@@ -10,7 +10,7 @@ I'm currently looking for an **internship opportunity** where I can contribute t
 
 ---
 
-### 🛠️ What I Work With
+### What I Work With
 
 - **Languages:** Python, TypeScript, JavaScript, Kotlin, SQL, HTML/CSS
 - **Backend & APIs:** Python, Google OAuth 2.0, Gmail REST API, REST APIs, Webhooks, BeautifulSoup
@@ -21,17 +21,17 @@ I'm currently looking for an **internship opportunity** where I can contribute t
 
 ---
 
-### 🚀 Things I've Built
+### Things I've Built
 
-- 📬 **[BriefingOS (`ai-mail-assistant`)](https://github.com/Preetham37/ai-mail-assistant):** My main project — an automated assistant that authenticates with Gmail, parses and cleans incoming emails, and prompts Gemini AI to deliver daily briefings and action checklists with Discord alerts.
-- ✅ **[MyTasker](https://my-tasker-livid.vercel.app):** A clean task and productivity web app I built and deployed live on Vercel.
-- ☁️ **[Forge Cloud Workspace](https://forge-navy-iota.vercel.app):** A modern cloud-focused workspace UI.
-- 🎵 **[MusicSwipe](https://github.com/Preetham37/MusicSwipe):** An Android music discovery app experiment using gesture-based navigation in Kotlin.
-- ⛅ **[Weather Web App](https://github.com/Preetham37/weather_web_app):** A lightweight weather intelligence app built with Python and APIs.
+- **[BriefingOS (`ai-mail-assistant`)](https://github.com/Preetham37/ai-mail-assistant):** My main project — an automated assistant that authenticates with Gmail, parses and cleans incoming emails, and prompts Gemini AI to deliver daily briefings and action checklists with Discord alerts.
+- **[MyTasker](https://my-tasker-livid.vercel.app):** A clean task and productivity web app I built and deployed live on Vercel.
+- **[Forge Cloud Workspace](https://forge-navy-iota.vercel.app):** A modern cloud-focused workspace UI.
+- **[MusicSwipe](https://github.com/Preetham37/MusicSwipe):** An Android music discovery app experiment using gesture-based navigation in Kotlin.
+- **[Weather Web App](https://github.com/Preetham37/weather_web_app):** A lightweight weather intelligence app built with Python and APIs.
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I'm always open to discussing new ideas, tech, or internship opportunities.
 - **Email:** [mpreetam792@gmail.com](mailto:mpreetam792@gmail.com)
